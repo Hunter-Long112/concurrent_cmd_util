@@ -1,6 +1,5 @@
 # Hunter Long
-# mia014
-# CS-3424-0B2
+# CS-3424
 # May 2nd, 2021
 # Assignment 6
 
